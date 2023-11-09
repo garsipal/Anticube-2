@@ -1,0 +1,7 @@
+jump.ogg , jumppad.ogg , land.ogg , pulse.ogg , teleport.ogg by: "garsipal"
+license: cc-by-sa-4.0
+
+steps1.ogg , steps2.ogg , steps3.ogg , steps4.ogg , steps5.ogg by: "garsipal"
+license: cc-by-sa-4.0
+
+other sounds are made from public domain sounds found in freesound.org
